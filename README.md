@@ -1,3 +1,4 @@
+![_](wallhaven-2yjp6x-cropped.png)
 # Welcome To My Github Profile!
 
 Hello, I am Giorgi Kiknavelidze, Full-Stack Software Engineer from **Tbilisi, Georgia**.
