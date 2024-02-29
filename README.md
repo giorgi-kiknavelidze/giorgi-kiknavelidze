@@ -1,6 +1,6 @@
 # Welcome To My Github Profile!
 
-Hello, I am Giorgi Kiknavelidze, Fullstack engeneer from **Tbilisi, Georgia**.
+Hello, I am Giorgi Kiknavelidze, Full-Stack Software Engineer from **Tbilisi, Georgia**.
 
 # My Skills
 
