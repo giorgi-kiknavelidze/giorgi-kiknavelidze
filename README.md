@@ -29,6 +29,14 @@ Hello, I am Giorgi Kiknavelidze, Full-Stack Software Engineer from **Tbilisi, Ge
 ![Solidity](https://img.shields.io/badge/Solidity-gainsboro?style=for-the-badge&logo=ethereum&logoColor=black)
 ![ZK Proofs](https://img.shields.io/badge/ZK_Proofs-gainsboro?style=for-the-badge&logo=ethereum&logoColor=black)
 
+![Jest](https://img.shields.io/badge/Jest-gainsboro?style=for-the-badge&logo=jest&logoColor=black)
+![Chai](https://img.shields.io/badge/Chai-gainsboro?style=for-the-badge&logo=chai&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-gainsboro?style=for-the-badge&logo=mocha&logoColor=black)
+![Nx](https://img.shields.io/badge/Nx-gainsboro?style=for-the-badge&logo=nx&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-gainsboro?style=for-the-badge&logo=storybook&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-gainsboro?style=for-the-badge&logo=vite&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-gainsboro?style=for-the-badge&logo=webpack&logoColor=black)
+
 
 ![C++](https://img.shields.io/badge/C%2B%2B-gainsboro?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-gainsboro?style=for-the-badge&logo=angular&logoColor=black)
